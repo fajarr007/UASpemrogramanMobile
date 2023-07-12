@@ -5,4 +5,4 @@
 ## Kelas : TI. 20. A3
 
 KETIKA DIJALANKAN <br>
-![p](img/hasil.png)
+![p](img/hasil.png) <br>
